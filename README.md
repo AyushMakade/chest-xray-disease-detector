@@ -7,11 +7,7 @@ This is an AI-powered web app built with **Streamlit** and **PyTorch** that pred
 
 ---
 
-## 🚀 Try It Out
-
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/YOUR_USERNAME/chest-xray-disease-detector/main/st.py)
-
-> ⚠️ Replace the link above with your actual repo path after you deploy!
+> ⚠️ (https://github.com/AyushMakade/chest-xray-disease-detector/tree/main)
 
 ---
 
@@ -35,9 +31,3 @@ This is an AI-powered web app built with **Streamlit** and **PyTorch** that pred
 | **No Finding**       | ✖          |
 
 ---
-
-## 🛠 How to Run Locally
-
-```bash
-pip install -r requirements.txt
-streamlit run st.py
